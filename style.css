@@ -1,0 +1,75 @@
+ 
+    body{
+        text-align: left;
+        color: white;
+        background-color: black;
+        
+        
+    }
+    .rectangle{
+        height: 50px;
+  width: 200px;
+  background-color:white;
+  text-align: center !important;
+  color: inherit;
+  color:purple;
+
+    }
+    figure{
+        border-radius: 8px !important;
+        display: block;
+        /* width: 100%;
+        height: 100%;
+        min-width: 100%;
+        min-height: 100%; */
+    }
+    
+      /* img{
+        
+        border-radius: 50%;
+        border-radius: 50%;
+        padding: 5px;
+        width: 300;
+        height: 300;
+      } */
+       
+        
+  
+        
+       
+      h1{
+        font-family: 'Times New Roman', Times, serif;
+        
+        
+        font-size: 2.5em;
+        padding: 0.2em;
+        text-indent: 2em;
+        text-decoration: underline;
+        color: blue;
+      }
+      h4{
+        color:palevioletred;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;
+        
+    
+      }
+      h5{
+        font-size:1em;
+      }
+      .main{
+        text-decoration: dotted violet;
+      }
+      div{
+        font-family: 'Times New Roman', Times, serif;
+        
+        font-size: 1.5em;
+        box-sizing: border-box;
+        
+      }
+      p{
+        word-spacing: 0.5em;
+        font-size: 1.3em;
+      }
+      
+       
